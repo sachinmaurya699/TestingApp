@@ -17,7 +17,6 @@ public class Home_Activity extends AppCompatActivity
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_home);
 
-
         //sachin...............
 
     }

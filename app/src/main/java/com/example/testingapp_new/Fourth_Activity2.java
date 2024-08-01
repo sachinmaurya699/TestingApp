@@ -1,12 +1,11 @@
-package com.example.testingapp;
+package com.example.testingapp_new;
 
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+
+
 
 public class Fourth_Activity2 extends AppCompatActivity
 {
